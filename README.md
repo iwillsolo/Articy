@@ -1,4 +1,4 @@
-# Web Scraper GUI
+# Article Extractor(GUI)
 This is a Python script that creates a simple GUI window to allow users to enter a URL of a website and scrape certain information from it, such as the article title, the main image, embedded videos, meta description, meta tags, and article text. The extracted information is displayed in a text box within the GUI.
 
 ### Installation
