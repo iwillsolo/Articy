@@ -26,8 +26,5 @@ This will open the GUI window. To scrape a website, enter the URL in the URL ent
 Note that the script only works with websites that have a well-defined structure and follow common practices. Some websites may have different HTML structures or may block scraping attempts, in which case the script may not work properly.
 
 
-# Sample
-
-
-Credits
+### Credits
 This script was created by Abdalrahman. If you have any questions or suggestions, please feel free to contact me at abdalrahman.gamal.m@gmail.com
